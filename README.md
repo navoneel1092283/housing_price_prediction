@@ -1,5 +1,5 @@
-# housing_price_prediction
-Statistical and Predictive Analytics for Housing Price Prediction in Australia
+# Statistical and Predictive Analytics for Housing Price Prediction in Australia
+
 #### A Complete Statistical and Advanced Regression Analytics Approach for Housing Price Prediction using Exploratory Data Analytics and Lasso & Ridge Regression as the learning algorithms respectively.
 
 ## File Descriptions:
